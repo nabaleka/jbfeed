@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
 	'django.contrib.sitemaps',
+	'jobs',
 	# 3rd-party required apps:
 	'pagination',
 	'tagging',
